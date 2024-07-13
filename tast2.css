@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+header{
+    background-image:url("https://scontent.flko7-1.fna.fbcdn.net/v/t1.6435-9/52599303_2120826307985049_2544224955545944064_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=7b2446&_nc_ohc=U19SqKZRCJwQ7kNvgGJlNY9&_nc_ht=scontent.flko7-1.fna&oh=00_AYDxb9CKqK7xLlIA1cjIYxItDNyjAbnJq19Th4HNSF5hVQ&oe=66AE3166");
+  background-size: cover;
+ height: 700px;
+ width: 230vh;
+
+   
+}
+nav{
+    height: 60px;
+    background-color:black;
+    color:white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+ 
+}
+.logo{
+    font-size:50px;
+    padding-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: hold;
+    letter-spacing: 6px;
+    padding-top: 5px;
+
+}
+.manu a{
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 20px;
+    font-weight: hold;
+    font-family:'Times New Roman', Times, serif;
+}
+.manu{
+    margin-right: 100px;
+
+}
